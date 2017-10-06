@@ -1,0 +1,93 @@
+[
+    {
+        "id" : "0" , 
+        "photoURL" : "./assets/images/productPhoto.png",
+        "headerText" : "printed T-shirt ", 
+        "cost": 100,
+        "color" : ["white","pink","red"],
+        "type" : "fullhands",
+        "bodyText" : "A T-shirt (or t shirt, or tee) is a style of unisex fabric shirt named after the T shape of its body and sleeves. It normally has short sleeves and a round neckline, known as a crew neck, which lacks a collar."
+    },
+    {
+        "id" : "1" , 
+        "photoURL" : "./images/10.png",
+        "headerText" : "Geonordino grey Tee Shirt ", 
+        "cost": 240,
+        "color" : ["red"],
+        "type" : "halfhands",
+        "bodyText" : "this is some dummy description about the T-Shirth. This is the latest collection from the fashion week. This model has arrived just last week."
+    },
+    {
+        "id" : "2" , 
+        "photoURL" : "./assets/images/productPhoto.png",
+        "headerText" : "Geonordino grey Tee Shirt ", 
+        "cost": 2000,
+        "color" : ["violet"],
+        "type" : "halfhands",
+        "bodyText" : "this is some dummy description about the T-Shirth. This is the latest collection from the fashion week. This model has arrived just last week."
+    },
+    {
+        "id" : "3" , 
+        "photoURL" : "./assets/images/productPhoto.png",
+        "headerText" : "Geonordino grey Tee Shirt ", 
+        "cost": 3000,
+        "color" : ["red"],
+        "type" : "halfhands",
+        "bodyText" : "this is some dummy description about the T-Shirth. This is the latest collection from the fashion week. This model has arrived just last week."
+    },
+    {
+        "id" : "4" , 
+        "photoURL" : "./images/4.png",
+        "headerText" : "Geonordino grey Tee Shirt ", 
+        "cost": 4000,
+        "color" : ["green"],
+        "type" : "roundneck",
+        "bodyText" : "this is some dummy description about the T-Shirth. This is the latest collection from the fashion week. This model has arrived just last week."
+    },
+    {
+        "id" : "5" , 
+        "photoURL" : "./images/5.png",
+        "headerText" : "Geonordino grey Tee Shirt ", 
+        "cost": 3000,
+        "color" : ["blue"],
+        "type" : "fullhands",
+        "bodyText" : "this is some dummy description about the T-Shirth. This is the latest collection from the fashion week. This model has arrived just last week."
+    },
+    {
+        "id" : "6" , 
+        "photoURL" : "./images/6.png",
+        "headerText" : "Geonordino grey Tee Shirt ", 
+        "cost": 3000,
+        "color" : ["white","pink"],
+        "type" : "roundneck",
+        "bodyText" : "this is some dummy description about the T-Shirth. This is the latest collection from the fashion week. This model has arrived just last week."
+    },
+    {
+        "id" : "7" , 
+        "photoURL" : "./images/7.png",
+        "headerText" : "Geonordino grey Tee Shirt ", 
+        "cost": 1500,
+        "color" : ["blue","green"],
+        "type" : "CollarTee",
+        "bodyText" : "this is some dummy description about the T-Shirth. This is the latest collection from the fashion week. This model has arrived just last week."
+    },
+    {
+        "id" : "8" , 
+        "photoURL" : "./images/8.png",
+        "headerText" : "Geonordino grey Tee Shirt ", 
+        "cost": 1000,
+        "color" : ["red","green"],
+        "type" : "halfhands",
+        "bodyText" : "this is some dummy description about the T-Shirth. This is the latest collection from the fashion week. This model has arrived just last week."
+    },
+    {
+        "id" : "9" , 
+        "photoURL" : "./images/9.png",
+        "headerText" : "Geonordino grey Tee Shirt ", 
+        "cost": 500,
+        "color" : ["red","white"],
+        "type" : "halfhands",
+        "bodyText" : "this is some dummy description about the T-Shirth. This is the latest collection from the fashion week. This model has arrived just last week."
+    }
+    
+]
