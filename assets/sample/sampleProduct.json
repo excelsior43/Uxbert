@@ -2,7 +2,7 @@
     {
         "id" : "0" , 
         "code":"a",
-        "photoURL" : "./assets/images/original/1.png",
+        "photoURL" : "https://cdn.rawgit.com/excelsior43/Uxbert/master/assets/images/original/1.png",
         "headerText" : "1 Printed T-shirt ", 
         "cost": 100,
         "color" : ["red","white","red"],
@@ -12,7 +12,7 @@
     {
         "id" : "1" , 
         "code":"b",
-        "photoURL" : "./assets/images/original/2.png",
+        "photoURL" : "https://cdn.rawgit.com/excelsior43/Uxbert/master/assets/images/original/2.png",
         "headerText" : "2 Geonordino grey Tee Shirt ", 
         "cost": 240,
         "color" : ["red","black","white"],
@@ -22,7 +22,7 @@
     {
         "id" : "2" , 
         "code":"c",
-        "photoURL" : "./assets/images/original/3.png",
+        "photoURL" : "https://cdn.rawgit.com/excelsior43/Uxbert/master/assets/images/original/3.png",
         "headerText" : "3 Geonordino grey Tee Shirt ", 
         "cost": 2000,
         "color" : ["purple","grey"],
@@ -32,7 +32,7 @@
     {
         "id" : "3" , 
         "code":"d",
-        "photoURL" : "./assets/images/original/4.png",
+        "photoURL" : "https://cdn.rawgit.com/excelsior43/Uxbert/master/assets/images/original/4.png",
         "headerText" : "4 Geonordino grey Tee Shirt ", 
         "cost": 3000,
         "color" : ["black","white"],
@@ -42,7 +42,7 @@
     {
         "id" : "4" , 
         "code":"e",
-        "photoURL" : "./assets/images/original/5.png",
+        "photoURL" : "https://cdn.rawgit.com/excelsior43/Uxbert/master/assets/images/original/5.png",
         "headerText" : "5 Geonordino grey Tee Shirt ", 
         "cost": 4000,
         "color" : ["blue"],
@@ -52,7 +52,7 @@
     {
         "id" : "5" , 
         "code":"f",
-        "photoURL" : "./assets/images/original/2.png",
+        "photoURL" : "https://cdn.rawgit.com/excelsior43/Uxbert/master/assets/images/original/6.png",
         "headerText" : "6 Geonordino grey Tee Shirt ", 
         "cost": 3000,
         "color" : ["blue"],
@@ -62,7 +62,7 @@
     {
         "id" : "6" , 
         "code":"g",
-        "photoURL" : "../assets/images/original/1.png",
+        "photoURL" : "https://cdn.rawgit.com/excelsior43/Uxbert/master/assets/images/original/1.png",
         "headerText" : "7 Geonordino grey Tee Shirt ", 
         "cost": 3000,
         "color" : ["white","pink"],
@@ -72,7 +72,7 @@
     {
         "id" : "7" , 
         "code":"h",
-        "photoURL" : "../assets/images/original/2.png",
+        "photoURL" : "https://cdn.rawgit.com/excelsior43/Uxbert/master/assets/images/original/2.png",
         "headerText" : "8 Geonordino grey Tee Shirt ", 
         "cost": 1500,
         "color" : ["blue","green"],
@@ -82,7 +82,7 @@
     {
         "id" : "8" , 
         "code":"i",
-        "photoURL" : "./assets/images/original/3.png",
+        "photoURL" : "https://cdn.rawgit.com/excelsior43/Uxbert/master/assets/images/original/3.png",
         "headerText" : "9 Geonordino grey Tee Shirt ", 
         "cost": 1000,
         "color" : ["red","green"],
@@ -92,7 +92,7 @@
     {
         "id" : "9" , 
         "code":"j",
-        "photoURL" : "./assets/images/original/4.png",
+        "photoURL" : "https://cdn.rawgit.com/excelsior43/Uxbert/master/assets/images/original/6.png",
         "headerText" : "10 Geonordino grey Tee Shirt ", 
         "cost": 500,
         "color" : ["red","white"],
