@@ -369,7 +369,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, ".border {border: 1px solid #CCC;}\n\n.red{\n    color: #B30202;\n}\n.theMinHeight{\n    min-height: 18rem;\n}\ndiv.center-cropped {\n    width: 100%;\n    height: 100%;\n    overflow: hidden;\n}\ndiv.center-cropped img {\n    width: 30%;\n    height: 30%;\n    margin: 0px 0px 0px 0px;\n}\n\na {\n    text-decoration: none;\n    display: inline-block;\n    padding: 8px 16px;\n}\na.disabled {\n    background-color: #979797;\n    color: black;\n}\n\na:hover {\n    background-color: #1AA8E0;\n    color: black;\n}\n\n.previous {\n    background-color: #4CAF50;\n    color: white;\n}\n\n.next {\n    background-color: #4CAF50;\n    color: white;\n}\n\n.round {\n    border-radius: 50%;\n}\n\n\n\n", ""]);
+exports.push([module.i, ".mat-white{ \n    background-color: #f5f5f5;\n    color: #f5f5f5;\n    flood-color: #f5f5f5;\n  }\n  \n  .mat-red{ \n    background-color: #B30202;\n    color: #B30202;\n    flood-color: #B30202;\n  }\n  \n  .mat-black{ \n    background-color: rgb(0, 0, 0);\n    color: rgb(0, 0, 0);\n    flood-color: rgb(0, 0, 0);\n  }\n  \n  .mat-purple{ \n    background-color: rgb(102, 13, 13);\n    color: rgb(102, 13, 13);\n    flood-color: rgb(102, 13, 13);\n  }\n  \n  .mat-grey{ \n   background-color: rgb(194, 183, 183);\n    color: rgb(194, 183, 183);\n    flood-color: rgb(194, 183, 183);\n  }\n  \n  .mat-green{ \n    background-color: rgb(33, 165, 29);\n     color: rgb(33, 165, 29);\n     flood-color: rgb(33, 165, 29);\n   }\n  \n  .mat-blue{ \n    background-color: rgb(12, 36, 175);\n     color: rgb(12, 36, 175);\n     flood-color: rrgb(12, 36, 175);\n   }\n   .mat-pink{ \n    background-color: rgb(253, 30, 168);\n     color: rgb(253, 30, 168);\n     flood-color: rgb(253, 30, 168);\n   }\n\n.border {border: 1px solid #CCC;}\n\n.red{\n    color: #B30202;\n}\n.theMinHeight{\n    min-height: 18rem;\n}\ndiv.center-cropped {\n    width: 100%;\n    height: 100%;\n    overflow: hidden;\n}\ndiv.center-cropped img {\n    width: 30%;\n    height: 30%;\n    margin: 0px 0px 0px 0px;\n}\n\na {\n    text-decoration: none;\n    display: inline-block;\n    padding: 8px 16px;\n}\na.disabled {\n    background-color: #979797;\n    color: black;\n}\n\na:hover {\n    background-color: #1AA8E0;\n    color: black;\n}\n\n.previous {\n    background-color: #4CAF50;\n    color: white;\n}\n\n.next {\n    background-color: #4CAF50;\n    color: white;\n}\n\n.round {\n    border-radius: 50%;\n}\n\n\n\n", ""]);
 
 // exports
 
@@ -447,7 +447,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, ".card{\n    width: 15.5rem;\n    min-height: 15rem;\n}\n\n.mat-button.mat-fab {\n    line-height: 5.6rem;\n    min-width: 0;\n    width: 5.6rem;\n    height: 5.6rem;\n    border-radius: 50%;\n  }\n\n  .example-button-row {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-align: center;\n        -ms-flex-align: center;\n            align-items: center;\n    -ms-flex-pack: distribute;\n        justify-content: space-around;\n  }\n  ", ""]);
+exports.push([module.i, ".mat-white{ \n  background-color: #f5f5f5;\n  color: #f5f5f5;\n  flood-color: #f5f5f5;\n}\n\n.mat-red{ \n  background-color: #B30202;\n  color: #B30202;\n  flood-color: #B30202;\n}\n\n.mat-black{ \n  background-color: rgb(0, 0, 0);\n  color: rgb(0, 0, 0);\n  flood-color: rgb(0, 0, 0);\n}\n\n.mat-purple{ \n  background-color: rgb(102, 13, 13);\n  color: rgb(102, 13, 13);\n  flood-color: rgb(102, 13, 13);\n}\n\n.mat-grey{ \n background-color: rgb(194, 183, 183);\n  color: rgb(194, 183, 183);\n  flood-color: rgb(194, 183, 183);\n}\n\n.mat-green{ \n  background-color: rgb(33, 165, 29);\n   color: rgb(33, 165, 29);\n   flood-color: rgb(33, 165, 29);\n }\n\n.mat-blue{ \n  background-color: rgb(12, 36, 175);\n   color: rgb(12, 36, 175);\n   flood-color: rrgb(12, 36, 175);\n }\n .mat-pink{ \n  background-color: rgb(253, 30, 168);\n   color: rgb(253, 30, 168);\n   flood-color: rgb(253, 30, 168);\n }\n.card{\n    width: 15.5rem;\n    min-height: 15rem;\n}\n\n.mat-button.mat-fab {\n    line-height: 5.6rem;\n    min-width: 0;\n    width: 5.6rem;\n    height: 5.6rem;\n    border-radius: 50%;\n  }\n\n  .example-button-row {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-align: center;\n        -ms-flex-align: center;\n            align-items: center;\n    -ms-flex-pack: distribute;\n        justify-content: space-around;\n  }\n  ", ""]);
 
 // exports
 
@@ -908,10 +908,12 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var ProductService = (function () {
     function ProductService(http) {
         this.http = http;
-        this.productUrl = 'https://cdn.rawgit.com/excelsior43/Uxbert/master/assets/sample/sampleProduct.json'; // URL to web api
+        this.productUrl = 'https://cdn.rawgit.com/excelsior43/Uxbert/master/asseets/sample/sampleProduct.json'; // URL to web api
+        //private productUrl = './assets/sample/sampleProduct.json';  // URL to web api
         this.weatherUrl = 'http://api.openweathermap.org/data/2.5/weather?q=Riyadh,ksa&appid=a809c777d6813b6b0905a9a7bf1a8399'; // URL to web api
     }
     ProductService.prototype.getProduct = function () {
+        console.log("inside productUrl ::: ");
         return this.getJSON(this.productUrl);
     };
     ProductService.prototype.getWeather = function () {
