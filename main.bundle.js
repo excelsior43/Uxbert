@@ -908,7 +908,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var ProductService = (function () {
     function ProductService(http) {
         this.http = http;
-        this.productUrl = 'https://cdn.rawgit.com/excelsior43/Uxbert/master/asseets/sample/sampleProduct.json'; // URL to web api
+        this.productUrl = 'https://cdn.rawgit.com/excelsior43/Uxbert/master/assets/sample/sampleProduct.json'; // URL to web api
         //private productUrl = './assets/sample/sampleProduct.json';  // URL to web api
         this.weatherUrl = 'http://api.openweathermap.org/data/2.5/weather?q=Riyadh,ksa&appid=a809c777d6813b6b0905a9a7bf1a8399'; // URL to web api
     }
